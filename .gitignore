@@ -1,0 +1,19 @@
+# Windows binaries and logs
+*.exe
+*.log
+*.tmp
+*.bak
+*.old
+
+# System files
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git files
+.git/
