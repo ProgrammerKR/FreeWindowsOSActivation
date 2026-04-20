@@ -15,10 +15,14 @@ A lightweight and efficient batch script to activate Windows Operating Systems f
 
 ## 🛠️ Usage
 
-1. **Download** the `WindowsActivationScript.bat` file.
-2. **Right-click** the file and select **Run as Administrator** (or just run it, and it will ask for permission).
-3. **Wait** for the PowerShell window to open and follow the on-screen instructions.
-4. **Done!** Your Windows should be activated.
+1. **Download**: First, download the `WindowsActivationScript.bat` file from this repository.
+2. **Execute**: Open the file normally by double-clicking it. You can also right-click and select **Run as Administrator** to ensure all permissions are granted.
+3. **Automatic Start**: The Microsoft Activation Script (MAS) interface will launch automatically within a PowerShell window.
+4. **Select Activation Type**:
+   - **Press `1`** on your keyboard for **Windows OS Activation**.
+   - **Press `2`** on your keyboard for **Microsoft Office Activation**.
+5. **Completion**: Follow any remaining on-screen instructions. Once finished, you can close the window.
+6. **Done!**: Your Windows or Office suite is now fully activated.
 
 ---
 
