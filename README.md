@@ -1,5 +1,7 @@
 # 🚀 Free Windows OS Activation
 
+**Created by: Prog. Kanishk Raj (ProgrammerKR)**
+
 A lightweight and efficient batch script to activate Windows Operating Systems for free using the popular `get.activated.win` (MAS) methodology. This script automates the process by elevating itself to Administrator privileges and executing the necessary PowerShell commands.
 
 ---
@@ -54,5 +56,5 @@ This tool is for **educational purposes only**. The authors are not responsible 
 ---
 
 <p align="center">
-  Made with ❤️ for the community.
+  Created by <b>Prog. Kanishk Raj (ProgrammerKR)</b> | Made with ❤️ for the community.
 </p>

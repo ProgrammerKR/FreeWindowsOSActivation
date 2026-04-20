@@ -15,6 +15,10 @@ if %errorlevel% neq 0 (
 
 rem --------- 2.  We are admin – run the commands ----------
 echo.
+echo ============================================================
+echo   Created by: Prog. Kanishk Raj (ProgrammerKR)
+echo ============================================================
+echo.
 echo Running as Administrator...
 echo.
 
